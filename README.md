@@ -32,12 +32,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NyquistRate&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyquistRate&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=cpp,c" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyquistRate&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyquistRate&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=cpp,c&cache_seconds=1800)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyquistRate&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NyquistRate&theme=radical&hide_border=true&background=0D1117)
+
 </div>
 
 <br>
@@ -47,6 +51,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/saptarshi-jasu-b2232b328/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saptarshijasu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 

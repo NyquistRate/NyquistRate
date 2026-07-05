@@ -30,8 +30,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyquistRate&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyquistRate&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NyquistRate&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyquistRate&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
 </div>
 <br>
 <div align="center">

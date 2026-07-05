@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Saptarshi!+👋;ECE+Student+@+NIT+Durgapur;Diving+into+Machine+Learning+🤖;C%2B%2B+%26+Hardware+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Saptarshi!+👋;ECE+Student+@+NIT+Durgapur;Diving+into+Machine+Learning+🤖;Hardware+%26+Logic+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,9 +10,8 @@
 
 * 🎓 2nd-year **Electronics and Communication Engineering** student at **NIT Durgapur**.
 * 🤖 Currently embarking on a journey into **Machine Learning** and AI, applying my algorithmic background to data.
-* 💻 Strong foundation in **C++**, logic optimization, and complex problem-solving.
 * ⚙️ Wrapping up a summer internship in instrumentation at **IOCL Haldia**.
-* 🔬 Experienced in **VLSI Design** and **Digital Signal Processing**.
+* 🔬 Experienced in **VLSI Design**, **Digital Signal Processing**, and complex problem-solving.
 * 🎨 In my free time, I design graphics and visual layouts for campus organizations.
 
 ---
@@ -21,7 +20,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,jupyter,cpp,linux,git,github,photoshop&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,jupyter,linux,git,github,photoshop&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
@@ -33,7 +32,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=NyquistRate&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyquistRate&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyquistRate&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=cpp,c" alt="Top Languages" />
 
 </div>
 <br>
